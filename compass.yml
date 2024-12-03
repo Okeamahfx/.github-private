@@ -1,0 +1,16 @@
+name: .github-private
+id: ari:cloud:compass:b05bd447-01d9-48bb-8a0e-544f753425d1:component/bfc60ef0-e6fa-4ca2-96b4-363306fd4428/7d979417-582a-4542-bb88-201dcdd3cc8c
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Okeamahfx/.github-private
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
